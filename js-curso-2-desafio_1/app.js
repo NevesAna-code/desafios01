@@ -7,7 +7,7 @@ linguaugensDeProgramacao.push('JavaScript', 'c', 'c++', 'kotlin', 'Python'); //3
 console.log(linguaugensDeProgramacao);
 
 //4º Desafio
-let CriarLista = ['Ana', 'Roberta', 'Mom'];
+let CriarLista = [Joao', 'Roberta', 'Mom'];
 console.log(CriarLista[0]);
 console.log(CriarLista[1]);
 console.log(CriarLista[2]);
